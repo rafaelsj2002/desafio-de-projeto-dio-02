@@ -1,13 +1,14 @@
 # Entendendo o Desafio
- 
-Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas 😎
- 
-Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.
- 
-Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.
- 
-Instruções para entrega
-## 1️⃣ Desafio Classificador de nível de Herói
+
+**Agora é a sua hora de brilhar e construir um perfil de destaque na DIO! Explore todos os conceitos explorados até aqui e replique (ou melhore, porque não?) este projeto prático. Para isso, crie seu próprio repositório e aumente ainda mais seu portfólio de projetos no GitHub, o qual pode fazer toda diferença em suas entrevistas técnicas! 😎**
+
+**Neste repositório, insira todos os links e arquivos necessários para seu projeto, seja um arquivo de banco de dados ou um link para o template no Figma.**
+
+> *Dica: Se o expert forneceu um repositório Github, você pode dar um "fork" no repositório dele para organizar suas alterações e evoluções mantendo uma referência direta ao código-fonte original.*
+
+# Instruções para entrega
+
+## 1️⃣ Classificador de Nível de Herói
 
 **O Que deve ser utilizado**
 
@@ -16,7 +17,7 @@ Instruções para entrega
 - Laços de repetição
 - Estruturas de decisões
 
-### Objetivo
+## Objetivo
 
 Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
@@ -29,12 +30,9 @@ Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de 
 - Se XP for entre 9.001 e 10.000= Imortal
 - Se XP for maior ou igual a 10.001 = Radiante
 
-### Saída
+## Saída
 
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**"
+Ao final, deve se exibir uma mensagem: **"O Herói de nome  *{nome}*  está no nível  *{nivel}* !"**
 
- 
- 
- 
+
 Bons estudos 😉
